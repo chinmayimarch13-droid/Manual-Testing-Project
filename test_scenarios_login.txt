@@ -1,0 +1,7 @@
+Test Scenarios for Login Page:
+
+1. Check login with valid username and password
+2. Check login with invalid username and password
+3. Check login with empty username and password
+4. Check error message for invalid login
+5. Check validation message for empty fields
