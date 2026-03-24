@@ -1,0 +1,15 @@
+STLC (Software Testing Life Cycle)
+
+1. Requirement Analysis
+2. Test Planning
+3. Test Case Design
+4. Test Execution
+5. Defect Reporting
+6. Test Closure
+
+LOCATORS
+
+Locator is used to identify web elements.
+
+Types:
+ID, Name, XPath, CSS Selector
